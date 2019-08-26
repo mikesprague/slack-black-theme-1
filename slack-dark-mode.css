@@ -1891,11 +1891,11 @@ color:white;}
     .CodeMirror {
     position: relative;
     overflow: hidden;
-    background: #000;}
+    background: #000 !important;}
     .c-pillow_file__snippet__content .CodeMirror {
     height: auto;
     border: none;
-    color: #ffffff;}
+    color: #ffffff !important;}
     .c-pillow_file__snippet__content .CodeMirror-code>div:before {
  
     color: rgb(255, 101, 101);}
