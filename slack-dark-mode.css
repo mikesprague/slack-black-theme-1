@@ -14,6 +14,29 @@ html, body {
   -moz-osx-font-smoothing: grayscale !important;
   text-rendering: geometricPrecision !important;
 }
+.p-classic_nav__team_menu__blurb__sub {
+    color: #66c79e;}
+    .p-classic_nav__team_menu__blurb__name {
+     font-weight: 900;
+     color: white;}
+     
+ .c-select_options_list__wrapper .c-select_options_list {
+ background-color: #222222;
+ }
+ .p-dm_browser_modal__list_heading, .c-truncate{
+ color:white !important}
+ .p-dm_browser_modal__list_row_meta{
+ color:grey !important}
+ .c-multi_select_input--large {
+ background-color: #222222;
+ }
+ .p-member_profile_name__title{
+ color:white;}
+ .c-date_picker__dropdown {
+     --saf-0: rgba(var(--sk_foreground_low,29,28,29),0.13);
+     box-shadow: 0 22px 33px 22px rgba(0,0,0,.3);
+     background-color: #505050;}
+.p-member_profile_field__label, .p-member_profile_field__value, .p-member_profile_field__primary, .p-member_profile_name__subtitle{color:white !important} 
 .p-context_bar {
     color: white !important;
     background: #626262 !important;
